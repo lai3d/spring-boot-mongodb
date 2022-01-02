@@ -1,8 +1,6 @@
 # spring-boot-mongodb
 
-https://www.mongodb.com/compatibility/spring-boot
-
-##Spring Boot Integration with MongoDB Tutorial
+## [Spring Boot Integration with MongoDB Tutorial](https://www.mongodb.com/compatibility/spring-boot)
 
 MongoDB can connect to Spring Boot in two ways:
 - the **MongoRepository** interface
